@@ -1,0 +1,1 @@
+Nesse desafio aprendemos os conceitos básicos de Git/GitHub para compartilhamento do progresso de aprendizado.
